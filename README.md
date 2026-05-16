@@ -151,7 +151,7 @@ Mindset: Code • Create • Innovate ⚡
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raju-khanal&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -167,7 +167,7 @@ Mindset: Code • Create • Innovate ⚡
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/raju-khanal/raju-khanal/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -207,7 +207,7 @@ Mindset: Code • Create • Innovate ⚡
 # 🚀 VISITOR COUNTER
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=raju-khanal&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
 </p>
 
 ---
