@@ -123,7 +123,7 @@ Mindset: Code • Create • Innovate ⚡
 # 🔥 CYBERPUNK ANIMATION
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raju-khanal&theme=github_dark"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@ Mindset: Code • Create • Innovate ⚡
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=chartreuse-dark&hide_border=true&background=000000"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raju-khanal&theme=chartreuse-dark&hide_border=true&background=000000"/>
 
 </p>
 
@@ -143,7 +143,7 @@ Mindset: Code • Create • Innovate ⚡
 # 📈 MOST USED LANGUAGES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-khanal&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
