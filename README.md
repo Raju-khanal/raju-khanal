@@ -1,24 +1,25 @@
 <h1 align="center">Hey 👋, I'm Raju Khanal</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | React Developer | JavaScript Enthusiast
+🚀 Full Stack Web Developer | React & Firebase Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;React+%7C+Node.js+%7C+Firebase;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+%7C+Node.js+%7C+Firebase;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- ⚡ Building **modern full-stack web apps**
-- 🚀 Passionate about **real-time systems & scalable backend**
-- 💻 React + Web development lover
-- 🧠 Always learning **system design & advanced backend**
-- 🎯 Goal: Become a **top-tier software engineer**
+- 💻 Building **modern web applications**
+- ⚛️ Learning and building with **React.js & Firebase**
+- 🔥 Passionate about **Frontend & Full Stack Development**
+- 📚 Currently learning **Backend + System Design**
+- 🚀 Goal: Become a **Top Software Engineer**
+- 🌱 Always learning something new every day
 
 <br/>
 
@@ -28,16 +29,16 @@
 
 <p align="center">
 
-<a href="https://facebook.com/yourprofile">
-<img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://github.com/Raju-khanal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/yourprofile">
-<img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -46,17 +47,24 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,c" />
+</p>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
 
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,git,github"/>
-
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -64,13 +72,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raju-khanal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,37 +86,43 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raju-khanal&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## ✨ Dev Quote
+## 💡 Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Closing
+## 🚀 Featured Skills
+
+```js
+const raju = {
+  code: ["JavaScript", "HTML", "CSS", "C",],
+  frontend: ["React.js", "Tailwind CSS"],
+  backend: ["Node.js", "Firebase"],
+  tools: ["Git", "GitHub", "VS Code"],
+  currentFocus: "Full Stack Web Development"
+};
+```
+
+---
+
+<h3 align="center">🔥 Code. Learn. Build. Repeat. 🔥</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-🔥 <b>Code. Build. Scale. Repeat.</b> 🔥
-</p>
-
-<p align="center">
-⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Raju Khanal</a>
+⭐ From <a href="https://github.com/Raju-khanal">Raju Khanal</a>
 </p>
