@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+%7C+Node.js+%7C+Firebase;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raju-khanal&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🌌 About Me
@@ -21,6 +25,7 @@
 - 🚀 Goal: Become a **Top Software Engineer**
 - 🌱 Always learning something new every day
 
+<br/>
 <br/>
 
 ---
@@ -48,22 +53,22 @@
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,c,cpp" />
 </p>
 
 ### 🎨 Frontend Development
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
 </p>
 
 ### 🛠️ Tools & Platforms
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -74,11 +79,23 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raju-khanal&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,firebase,git,github" />
 </p>
 
 ---
@@ -111,7 +128,7 @@
 
 ```js
 const raju = {
-  code: ["JavaScript", "HTML", "CSS", "C",],
+  code: ["JavaScript", "HTML", "CSS", "C", "C++"],
   frontend: ["React.js", "Tailwind CSS"],
   backend: ["Node.js", "Firebase"],
   tools: ["Git", "GitHub", "VS Code"],
@@ -120,6 +137,20 @@ const raju = {
 ```
 
 ---
+
+## 🚀 Current Goals
+
+✅ Master React.js  
+✅ Learn Backend Development  
+✅ Build Full Stack Projects  
+✅ Learn Firebase Deeply  
+✅ Become a Better Software Engineer
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+</p>
 
 <h3 align="center">🔥 Code. Learn. Build. Repeat. 🔥</h3>
 
