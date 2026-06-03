@@ -1,7 +1,8 @@
+````md
 <h1 align="center">Hey 👋, I'm Raju Khanal</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | React & Firebase Enthusiast
+🚀 Full Stack Web Developer | React & Node.js Enthusiast
 </h3>
 
 <p align="center">
@@ -14,23 +15,23 @@
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Building **modern web applications**
-- ⚛️ Learning and building with **React.js & Firebase**
+- ⚛️ Learning and building with **React.js & Node.js**
 - 🔥 Passionate about **Frontend & Full Stack Development**
 - 📚 Currently learning **Backend + System Design**
 - 🚀 Goal: Become a **Top Software Engineer**
-- 🌱 Always learning something new every day
+- 🌱 Learning something new every day
 
 <br/>
 <br/>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -50,7 +51,7 @@
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### 🚀 Languages
 <p align="left">
@@ -64,7 +65,7 @@
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -74,13 +75,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 Highest GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raju-khanal&theme=tokyonight&hide_border=true"/>
@@ -88,19 +95,19 @@
 
 ---
 
-## 🔥 Most Used Languages
+# 🚀 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,git,github"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -108,7 +115,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raju-khanal&theme=tokyo-night&hide_border=true"/>
@@ -116,7 +123,7 @@
 
 ---
 
-## 💡 Quote
+# 💡 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -124,26 +131,26 @@
 
 ---
 
-## 🚀 Featured Skills
+# 🚀 Featured Skills
 
 ```js
 const raju = {
   code: ["JavaScript", "HTML", "CSS", "C", "C++"],
   frontend: ["React.js", "Tailwind CSS"],
-  backend: ["Node.js", "Firebase"],
+  backend: ["Node.js", "Express.js", "Firebase", "MongoDB"],
   tools: ["Git", "GitHub", "VS Code"],
   currentFocus: "Full Stack Web Development"
 };
-```
+````
 
 ---
 
-## 🚀 Current Goals
+# 🎯 Current Goals
 
-✅ Master React.js  
-✅ Learn Backend Development  
-✅ Build Full Stack Projects  
-✅ Learn Firebase Deeply  
+✅ Master React.js
+✅ Learn Backend Development
+✅ Build Full Stack Projects
+✅ Learn MongoDB & Firebase
 ✅ Become a Better Software Engineer
 
 ---
@@ -157,3 +164,4 @@ const raju = {
 <p align="center">
 ⭐ From <a href="https://github.com/Raju-khanal">Raju Khanal</a>
 </p>
+```
