@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hey 👋, I'm Raju Khanal</h1>
 
 <h3 align="center">
@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+%7C+Node.js+%7C+Firebase;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ---
 
-# 🌌 About Me
+## 🌌 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Building **modern web applications**
-- ⚛️ Learning and building with **React.js & Node.js**
-- 🔥 Passionate about **Frontend & Full Stack Development**
-- 📚 Currently learning **Backend + System Design**
-- 🚀 Goal: Become a **Top Software Engineer**
+- 💻 Building modern and responsive web applications  
+- ⚛️ Learning and building with **React.js, Node.js & MongoDB**  
+- 🔥 Passionate about **Frontend & Full Stack Development**  
+- 📚 Currently learning **Backend Architecture & System Design**  
+- 🚀 Goal: Become a **Top Software Engineer**  
 - 🌱 Learning something new every day
 
 <br/>
@@ -31,7 +31,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -51,43 +51,41 @@
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### 🚀 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,c,cpp" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Highest GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raju-khanal&theme=tokyonight&hide_border=true"/>
@@ -95,19 +93,15 @@
 
 ---
 
-# 🚀 Most Used Languages
+## 🚀 Most Used Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,git,github"/>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,git,github" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -115,7 +109,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raju-khanal&theme=tokyo-night&hide_border=true"/>
@@ -123,7 +117,7 @@
 
 ---
 
-# 💡 Dev Quote
+## 💡 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -131,26 +125,23 @@
 
 ---
 
-# 🚀 Featured Skills
+## 🚀 Featured Skills
 
-```js
+
 const raju = {
   code: ["JavaScript", "HTML", "CSS", "C", "C++"],
   frontend: ["React.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "Firebase", "MongoDB"],
+  backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
   tools: ["Git", "GitHub", "VS Code"],
   currentFocus: "Full Stack Web Development"
 };
-````
 
----
-
-# 🎯 Current Goals
+## 🎯 Current Goals
 
 ✅ Master React.js
 ✅ Learn Backend Development
 ✅ Build Full Stack Projects
-✅ Learn MongoDB & Firebase
+✅ Learn MongoDB Deeply
 ✅ Become a Better Software Engineer
 
 ---
