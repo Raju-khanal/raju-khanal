@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Raju Khanal</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | React & Node.js Enthusiast
+Full Stack Web Developer | React & Node.js Enthusiast
 </h3>
 
 <p align="center">
