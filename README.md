@@ -84,13 +84,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ---
 
-## 💡 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-khanal-dev&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🚀 Skills Summary
 
