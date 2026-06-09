@@ -9,7 +9,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raju-khanal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=raju-khanal-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -51,11 +51,11 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raju-khanal-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-khanal-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raju-khanal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=raju-khanal-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raju-khanal-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raju-khanal&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raju-khanal-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 💡 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-khanal-dev&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
