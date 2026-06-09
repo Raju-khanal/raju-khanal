@@ -5,7 +5,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;Node.js+%7C+MongoDB+%7C+Express;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+Developer;Node.js+%7C+MongoDB+%7C+Express;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
@@ -16,33 +16,33 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ## 🌌 About Me
 
-- 💻 Full Stack Developer passionate about building scalable web apps  
-- ⚛️ React.js + Node.js + MongoDB enthusiast  
-- 🚀 Focused on clean architecture & real-world projects  
-- 📚 Currently improving backend & system design skills  
-- 🎯 Goal: Become a strong Software Engineer  
+- 💻 Full Stack Developer (MERN Stack)
+- ⚛️ React + Node.js + MongoDB enthusiast  
+- 🚀 Love building real-world projects  
+- 📚 Currently improving backend architecture  
+- 🎯 Goal: Become a top software engineer  
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,c" />
 </p>
 
 ### 🎨 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend & Database
-<p align="left">
+### ⚙️ Backend & DB
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 🛠 Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -51,9 +51,11 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raju-khanal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,7 +63,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raju-khanal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Raju-khanal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +71,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raju-khanal&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -82,7 +84,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ---
 
-## 💡 Most Used Language
+## 💡 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-khanal&layout=donut&theme=tokyonight&hide_border=true" />
@@ -90,7 +92,7 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ---
 
-## 🚀 Featured Skills
+## 🚀 Skills Summary
 
 ```js
 const raju = {
