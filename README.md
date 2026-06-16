@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Raju Khanal</h1>
 
 <h3 align="center">
-Full Stack Web Developer | React & Node.js Enthusiast
+Full Stack Web Developer | MERN + PHP Developer | Python Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+Developer;Node.js+%7C+MongoDB+%7C+Express;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;PHP+%7C+Node.js+%7C+MongoDB+%7C+Express;Python+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ## 🌌 About Me
 
-- 💻 Full Stack Developer (MERN Stack)
-- ⚛️ React + Node.js + MongoDB enthusiast  
-- 🚀 Love building real-world projects  
-- 📚 Currently improving backend architecture  
-- 🎯 Goal: Become a top software engineer  
+- 💻 Full Stack Developer (MERN + PHP)
+- ⚛️ Passionate about modern web technologies
+- 🚀 Love building real-world scalable applications
+- 🧠 Exploring backend architecture & system design
+- 🎯 Goal: Become a top-tier software engineer
 
 ---
 
@@ -28,22 +28,35 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ### 🚀 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,php" />
 </p>
+
+---
 
 ### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend & DB
+---
+
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### 🛠 Tools
+---
+
+### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -84,15 +97,26 @@ Full Stack Web Developer | React & Node.js Enthusiast
 
 ---
 
-
-
 ## 🚀 Skills Summary
 
 ```js
 const raju = {
-  code: ["JavaScript", "C", "C++"],
-  frontend: ["React", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "MongoDB"],
-  tools: ["Git", "GitHub", "VS Code"],
-  focus: "Full Stack Web Development"
+  name: "Raju Khanal",
+  role: "Full Stack Web Developer",
+
+  code: ["JavaScript", "Python", "C", "PHP"],
+
+  frontend: ["React", "HTML", "CSS", "Tailwind CSS"],
+
+  backend: ["Node.js", "Express", "PHP"],
+
+  database: ["MongoDB", "MySQL"],
+
+  tools: ["Git", "GitHub", "VS Code", "Postman"],
+
+  stack: "MERN + PHP Full Stack Development",
+
+  focus: "Building scalable web applications",
+
+  learning: "System design, advanced backend & APIs"
 };
